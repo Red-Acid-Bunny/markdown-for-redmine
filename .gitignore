@@ -1,3 +1,19 @@
-actual
-*.redmine.textile
-build
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Test output
+test_output/
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
