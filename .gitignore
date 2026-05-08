@@ -1,1 +1,19 @@
-Nothing to output - the modified file 'README.md' is a source/config file and no build artifacts, dependencies, or temp files are present in the changes.
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Test output
+test_output/
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
