@@ -1,0 +1,15 @@
+Параграф до кода:
+
+<pre><code class="bash">
+echo hello
+</code></pre>
+
+
+Параграф после кода без @<!-- end -->@.
+
+<pre><code class="bash">
+echo world
+</code></pre>
+
+
+Еще параграф.

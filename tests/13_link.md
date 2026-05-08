@@ -1,0 +1,4 @@
+Ссылка в тексте:
+
+- [Разделение доступа в системе Дельта](http://192.168.0.9/redmine/projects/deltadoc/wiki/Разделение)
+- [Плагин Monitor.Tools](http://192.168.0.9/redmine/projects/deltadoc/wiki/MonitorTools)

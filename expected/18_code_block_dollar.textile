@@ -1,0 +1,8 @@
+Пример с переменными:
+
+<pre><code class="bash">
+ </code>&#36; <code class="bash">VAR1=</code>&#36;<code class="bash">HOME
+ </code>&#36; <code class="bash">echo "Path: </code>&#36;<code class="bash">VAR1"
+ </code>&#36; <code class="bash">export PATH=</code>&#36;<code class="bash">PATH:/new/path
+</code></pre>
+

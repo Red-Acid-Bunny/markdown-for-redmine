@@ -1,0 +1,10 @@
+h1(#test-table-in-article-context). Test: table in article context
+
+Проверяем таблицу внутри статьи:
+
+|_. Ключ|_. Значение|
+| Realm| STAND.LOCAL|
+| KDC| dc1.stand.local|
+
+
+Текст после таблицы.

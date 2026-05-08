@@ -1,0 +1,13 @@
+Пример:
+
+<pre><code class="text">
+nameserver 10.0.0.250
+</code></pre>
+
+
+И еще:
+
+<pre><code class="shell">
+setspn -A HTTP/web.test.stand web
+</code></pre>
+

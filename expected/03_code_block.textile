@@ -1,0 +1,10 @@
+Параграф до кода:
+
+<pre><code class="bash">
+echo hello
+kinit user@STAND.LOCAL
+klist
+</code></pre>
+
+
+Параграф после кода.

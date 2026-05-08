@@ -1,0 +1,7 @@
+h1(#test-table-with-header). Test: table with header
+
+|_. Направление|_. Порт|_. Протокол|
+| Браузер → web| 8081| TCP|
+| web → dataserver| 50001| TCP|
+| Все → KDC| 88| TCP/UDP|
+

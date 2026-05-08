@@ -1,0 +1,10 @@
+Текст:
+
+<pre><code class="bash">
+void test();
+</code></pre>
+
+
+h2(#test). test
+
+Продолжение.

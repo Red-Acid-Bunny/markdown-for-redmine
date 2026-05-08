@@ -1,0 +1,6 @@
+h1(#test-simple-table). Test: simple table
+
+|_. A|_. B|
+| 1| 2|
+| 3| 4|
+
